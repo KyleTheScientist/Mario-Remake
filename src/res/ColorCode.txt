@@ -1,0 +1,9 @@
+Brick = 		FFFFFF
+Brick (Coin) = 		DDDDDD
+Brick (Star) = 		FFFF00
+Invisible (Life) = 	
+Goomba = 		FF00FF
+Ground = 		000000
+QBlock (Coin) = 	FF0000
+QBlock (Shroom) = 	00FFFF
+Pipe = 			00FF00
